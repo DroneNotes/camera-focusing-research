@@ -1,0 +1,54 @@
+ Peaceful Use and No Harm License — Supplemental Terms
+
+Version 1.0 — 15 November 2026
+
+ 1. Scope
+
+This supplemental license applies only to new, original contributions explicitly identified by their rights holder as "Supplemental Material" and offered under these terms, rather than independently under Apache-2.0 (the "Materials"). The "Licensor" is the person or entity entitled to grant the relevant rights. "You" means any person or entity exercising rights granted by this supplemental license.
+
+The new HTML presentation, embedded navigation, and interface code introduced in the 15 November 2026 HTML edition are designated Supplemental Material. The pre-existing research article and any other material already released under Apache-2.0 are excluded from this designation. Merely converting the article from Markdown to HTML does not change the article's license. Future contributions are covered only when explicitly designated; this document does not automatically relicense every file in the repository.
+
+The Apache License, Version 2.0, remains in effect for Apache-licensed material. This supplement does not amend Apache-2.0, revoke existing permissions, add conditions to the exercise of those permissions, or terminate rights obtained under Apache-2.0. Where Apache-2.0 independently permits an activity, this supplement does not prohibit that activity. The Licensor asks that all project materials be used peacefully; for Apache-licensed portions, that request is an ethical statement rather than a new enforceable condition of the Apache grant.
+
+This license grants only rights the Licensor is entitled to grant. Third-party works, quoted material, libraries, fonts, datasets, and linked resources remain subject to their own licenses and rights. Scientific facts, ideas, mathematical formulas, and methods are not made proprietary by this license. Nothing here limits rights you have independently under applicable law, including applicable quotation, fair-use, or similar exceptions.
+
+ 2. Permission for peaceful purposes
+
+Subject to every condition below, the Licensor grants you a worldwide, non-exclusive, royalty-free permission to use, copy, study, reproduce, modify, and redistribute the Materials, including for peaceful educational, scientific, humanitarian, personal, and commercial purposes.
+
+**The Materials may be used only for peaceful purposes that respect human life, safety, dignity, and human rights.**
+
+ 3. Prohibited harmful uses
+
+You must not use, modify, incorporate, or distribute the Materials for an activity intended, designed, or reasonably expected to:
+
+- Kill, injure, threaten, abuse, or otherwise cause harm to any person.
+- Develop, manufacture, test, target, guide, or deploy weapons, weapon systems, or equipment intended for violence or combat.
+- Enable attacks, terrorism, torture, persecution, unlawful coercion, or other violations of human rights.
+- Support surveillance or tracking intended to facilitate violence, persecution, repression, or abuse.
+- Cause deliberate or reckless damage to property, civilian infrastructure, or the environment.
+- Help another person or organization carry out any prohibited use listed above.
+
+You must not supply the Materials for a prohibited use when you know, or reasonably should know, that the recipient intends such use. You must take reasonable precautions to prevent reasonably foreseeable harm arising from your own use of the Materials. Describing an activity as research, testing, security, or defense does not exempt it from these restrictions.
+
+**If you cannot comply with these conditions, you have no permission under this supplemental license to use the Supplemental Material. This does not withdraw any independent permission under Apache-2.0.**
+
+ 4. Attribution and redistribution
+
+When sharing the Materials or a modified version, you must preserve existing authorship and copyright notices, provide a copy of this license, and clearly identify substantial changes. You must retain these peaceful-use and no-harm conditions for the portions derived from the Materials and must not grant permission for their prohibited use.
+
+You must not imply endorsement by the original authors or the Licensor. This license grants no trademark rights and no patent rights.
+
+ 5. Termination
+
+Any permission granted by this license terminates automatically if you violate its conditions. Upon termination, you must stop exercising the rights granted by this license, stop distributing the Materials, and stop using or supplying copies or adaptations under your control for a prohibited purpose. Correcting a violation does not automatically restore permission; reinstatement requires the Licensor's written authorization. Termination does not eliminate responsibility for an earlier violation.
+
+ 6. No warranty or assurance of safety
+
+To the extent permitted by applicable law, the Materials are provided "AS IS," without warranties of accuracy, fitness for a particular purpose, non-infringement, or safety. You are responsible for validating your implementation, obtaining any required permissions, and complying with applicable law.
+
+To the extent permitted by applicable law, the Licensor and contributors are not liable for claims, damages, or other liability arising from use of the Materials. Nothing in this section excludes liability that applicable law does not allow to be excluded.
+
+ 7. Nature of this license
+
+This is a custom supplemental license with restrictions on harmful uses. It is not an MIT, Creative Commons, or OSI-approved open-source license. No permission for a prohibited activity involving Supplemental Material may be inferred from its public availability. The Apache-2.0 license in the accompanying LICENSE file is preserved without modification, and the restrictions and termination provisions here apply only to permissions granted by this supplement.
