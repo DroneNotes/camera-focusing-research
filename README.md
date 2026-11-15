@@ -8,7 +8,7 @@ The guide connects optical calculations with repeatable bench procedures: choosi
 
 **[Focusing Miniature FPV and Thermal Cameras: Optics, Mechanics, Targets, and Focus Measures](complete_research_monograph_optical_and_algorithmic_focusing.md)**
 
-**[Read the HTML edition](index.html)** — a standalone page with embedded styles, rendered equations, navigation, and license terms.
+**[Read the HTML edition](https://dronenotes.github.io/camera-focusing-research/)** — a standalone page with embedded styles, rendered equations, navigation, and license terms.
 
 The article contains the detailed equations, worked examples, calculated visible/LWIR tables, discussion of 36 focus-measure operators, measurement protocols, troubleshooting, and the original research-link registry.
 
